@@ -18,6 +18,7 @@ diagram are in another place called the object bench.
 2)A class diagram can change when you remove or add a class, or when you remove or add 
 an arrow.
 3)When you add or remove an object.
-4)
+4)private Instructor tutor;
 6)You need to check if the value rolled over by inspecting it and see if it went back to zero.
-7)
+8)Both call did not change it only the one lesser then the limit.
+9)
