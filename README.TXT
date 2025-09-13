@@ -21,4 +21,12 @@ an arrow.
 4)private Instructor tutor;
 6)You need to check if the value rolled over by inspecting it and see if it went back to zero.
 8)Both call did not change it only the one lesser then the limit.
-9)
+9)I predict it would be 0.
+11)I think there is an error is because the int is not need, java already knows.
+14)You can go over the limit.
+16) !a && !b. 
+17) !a || b , b = !false
+18)It is not a two digit sting, it gives all three digits.
+19)It always shows up as zero if you do it the first way.
+20)12 cat and cat 12, it did surprise me i did not expect it to do that.
+21)
